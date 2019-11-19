@@ -16,7 +16,7 @@ end
 function run()
     x::Int64 = 0
 
-    while x < (25)
+    while x < (25 * 60)
         clear_terminal()
         println("Pomodor (25 minutes):")
         displayTime(x)
