@@ -9,8 +9,8 @@ function display_time(int $x): void
 {
     $div = round($x / 60);
     $mod = round($x % 60);
-    $minutes = ($div >= 10) ? "$div" : "0$div";
-    $seconds = ($mod >= 10) ? "$mod" : "0$mod";
+    $minutes = ($div < 10) ? "0$div" : "$div";
+    $seconds = ($mod < 10) ? "0$mod" : "$mod";
 
     echo("$minutes:$seconds\n");
 }
