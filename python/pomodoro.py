@@ -11,8 +11,8 @@ def clear_terminal():
 def display_time(x: int):
     div: int = int(x / 60)
     mod: int = int(x % 60)
-    minutes: str = ("0" + str(div), str(div))[div > 10]
-    seconds: str = ("0" + str(mod), str(mod))[mod > 10]
+    minutes: str = (str(div), "0" + str(div))[div < 10]
+    seconds: str = (str(mod), "0" + str(mod))[mod < 10]
 
     print(minutes + ":" + seconds)
 
