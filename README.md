@@ -4,7 +4,7 @@ A very simple [pomodoro](https://en.wikipedia.org/wiki/Pomodoro_Technique) progr
 
 ## Notes
 
-- You can escape any of this program by doing Ctrl + C in terminal. It will interrupt the program with a [SIGINT signal]((http://man7.org/linux/man-pages/man7/signal.7.html)) and you may receive an error output but it's OK (really).
+- You can escape any of this program by doing Ctrl + C in terminal. It will interrupt the program with a [SIGINT signal](http://man7.org/linux/man-pages/man7/signal.7.html) and you may receive an error output but it's OK (really).
 
 ## Done
 
