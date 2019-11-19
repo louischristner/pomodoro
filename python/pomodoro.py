@@ -4,10 +4,6 @@ import os
 
 
 
-def focus_on_terminal():
-    os.system('wmctrl -a Terminal')
-
-
 def clear_terminal():
     os.system('clear')
 
@@ -24,7 +20,6 @@ def display_time(x: int):
 def run():
     x: int = 0
 
-    focus_on_terminal()
     while x < (25 * 60):
         clear_terminal()
         print("Pomodoro (25 minutes):")
@@ -36,7 +31,6 @@ def run():
 def pause(duration: int):
     x: int = 0
 
-    focus_on_terminal()
     while x < (duration * 60):
         clear_terminal()
         print("Pause (" + str(duration) + " minutes):")

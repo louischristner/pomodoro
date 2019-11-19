@@ -1,8 +1,3 @@
-function focus_on_terminal()
-    Base.run(`wmctrl -a Terminal`)
-end
-
-
 function clear_terminal()
     Base.run(`clear`)
 end
@@ -21,7 +16,6 @@ end
 function run()
     x::Int64 = 0
 
-    focus_on_terminal()
     while x < (25)
         clear_terminal()
         println("Pomodor (25 minutes):")
@@ -35,7 +29,6 @@ end
 function pause(duration::Int64)
     x::Int64 = 0
 
-    focus_on_terminal()
     while x < (duration * 60)
         clear_terminal()
         println("Pause (", string(duration), " minutes):")
