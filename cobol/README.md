@@ -2,13 +2,13 @@
 
 Here is a lot of documentation because COBOL is quite different than modern programming languages, so if you want to understand what's going on you will probably need to read a little bit.
 
-Here is [IBM COBOL documentation](https://www.ibm.com/support/knowledgecenter/en/ssw_ibm_i_71/rzahg/rzahgcobol.htm).
-Here is [COBOL Wikipedia page](https://en.wikipedia.org/wiki/COBOL).
-Here is [COBOL Wikibooks](https://en.wikibooks.org/wiki/Software_Engineers_Handbook/Language_Dictionary/COBOL).
-Here is [7 COBOL examples with explanations](https://medium.com/@yvanscher/7-cobol-examples-with-explanations-ae1784b4d576) by [Yvan Scher](https://medium.com/@yvanscher).
-Here is [The beauty of the COBOL Programming Language](https://devops.com/the-beauty-of-the-cobol-programming-language-v2/) by [Bob Reselman](https://devops.com/author/bob-reselman/).
+- Here is [IBM COBOL documentation](https://www.ibm.com/support/knowledgecenter/en/ssw_ibm_i_71/rzahg/rzahgcobol.htm).
+- Here is [COBOL Wikipedia page](https://en.wikipedia.org/wiki/COBOL).
+- Here is [COBOL Wikibooks](https://en.wikibooks.org/wiki/Software_Engineers_Handbook/Language_Dictionary/COBOL).
+- Here is [7 COBOL examples with explanations](https://medium.com/@yvanscher/7-cobol-examples-with-explanations-ae1784b4d576) by [Yvan Scher](https://medium.com/@yvanscher).
+- Here is [The beauty of the COBOL Programming Language](https://devops.com/the-beauty-of-the-cobol-programming-language-v2/) by [Bob Reselman](https://devops.com/author/bob-reselman/).
 
-In order to compile this code you need a COBOL compiler. Here is [GnuCOBOL](https://open-cobol.sourceforge.io/). I worked with it to write this program.
+In order to compile this code you need a COBOL compiler. [GnuCOBOL](https://open-cobol.sourceforge.io/) is the one I used to write this program.
 
 ## Run
 
