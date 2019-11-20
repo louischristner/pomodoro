@@ -12,3 +12,4 @@ A very simple [pomodoro](https://en.wikipedia.org/wiki/Pomodoro_Technique) progr
 - [Julia](https://github.com/louischristner/pomodoro/tree/master/julia)
 - [C](https://github.com/louischristner/pomodoro/tree/master/c)
 - [PHP](https://github.com/louischristner/pomodoro/tree/master/php)
+- [COBOL](https://github.com/louischristner/pomodoro/tree/master/cobol)
