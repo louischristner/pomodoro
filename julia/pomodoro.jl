@@ -18,7 +18,7 @@ function run()
 
     while x < (25 * 60)
         clear_terminal()
-        println("Pomodor (25 minutes):")
+        println("Pomodoro (25 minutes):")
         displayTime(x)
         sleep(1)
         x += 1
