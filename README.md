@@ -13,6 +13,7 @@ A very simple [pomodoro](https://en.wikipedia.org/wiki/Pomodoro_Technique) progr
 - [COBOL](https://github.com/louischristner/pomodoro/tree/master/cobol)
 
 ### J
+- [JavaScript (Node.js)](https://github.com/louischristner/pomodoro/tree/master/javascript)
 - [Julia](https://github.com/louischristner/pomodoro/tree/master/julia)
 
 ### P
