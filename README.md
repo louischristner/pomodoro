@@ -8,8 +8,13 @@ A very simple [pomodoro](https://en.wikipedia.org/wiki/Pomodoro_Technique) progr
 
 ## Done
 
-- [Python (3)](https://github.com/louischristner/pomodoro/tree/master/python)
-- [Julia](https://github.com/louischristner/pomodoro/tree/master/julia)
+### C
 - [C](https://github.com/louischristner/pomodoro/tree/master/c)
-- [PHP](https://github.com/louischristner/pomodoro/tree/master/php)
 - [COBOL](https://github.com/louischristner/pomodoro/tree/master/cobol)
+
+### J
+- [Julia](https://github.com/louischristner/pomodoro/tree/master/julia)
+
+### P
+- [PHP](https://github.com/louischristner/pomodoro/tree/master/php)
+- [Python (3)](https://github.com/louischristner/pomodoro/tree/master/python)
