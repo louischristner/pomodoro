@@ -41,8 +41,8 @@ function pause(int $duration): void
     }
 }
 
-# count_run increment each time run() is called
-# (used to decide between a short and a long pause)
+// count_run increment each time run() is called
+// (used to decide between a short and a long pause)
 $count_run = 0;
 
 while (true) {
