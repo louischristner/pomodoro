@@ -19,3 +19,6 @@ A very simple [pomodoro](https://en.wikipedia.org/wiki/Pomodoro_Technique) progr
 ### P
 - [PHP](https://github.com/louischristner/pomodoro/tree/master/php)
 - [Python (3)](https://github.com/louischristner/pomodoro/tree/master/python)
+
+## Ruby
+- [Ruby](https://github.com/louischristner/pomodoro/tree/master/ruby)
