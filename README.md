@@ -19,7 +19,7 @@ A very simple [pomodoro](https://en.wikipedia.org/wiki/Pomodoro_Technique) progr
 - [JavaScript (Node.js)](https://github.com/louischristner/pomodoro/tree/master/javascript)
 - [Julia](https://github.com/louischristner/pomodoro/tree/master/julia)
 
-## Kotlin
+### Kotlin
 - [Kotlin](https://github.com/louischristner/pomodoro/tree/master/kotlin)
 
 ### P
