@@ -52,6 +52,8 @@ class Pomodoro {
         }
     }
 
+    // count_run increment each time run() is called
+    // (used to decide between a short and a long pause)
     public static void main(String[] args) {
         int count_run = 0;
 
