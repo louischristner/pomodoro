@@ -21,6 +21,7 @@ A very simple [pomodoro](https://en.wikipedia.org/wiki/Pomodoro_Technique) progr
 - [Kotlin](https://github.com/louischristner/pomodoro/tree/master/kotlin)
 
 ### P
+- [Perl](https://github.com/louischristner/pomodoro/tree/master/perl)
 - [PHP](https://github.com/louischristner/pomodoro/tree/master/php)
 - [Python (3)](https://github.com/louischristner/pomodoro/tree/master/python)
 
