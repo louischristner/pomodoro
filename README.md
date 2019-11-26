@@ -14,6 +14,9 @@ A very simple [pomodoro](https://en.wikipedia.org/wiki/Pomodoro_Technique) progr
 - [C](https://github.com/louischristner/pomodoro/tree/master/c)
 - [COBOL](https://github.com/louischristner/pomodoro/tree/master/cobol)
 
+### G
+- [Go](https://github.com/louischristner/pomodoro/tree/master/go)
+
 ### J
 - [Java](https://github.com/louischristner/pomodoro/tree/master/java)
 - [JavaScript (Node.js)](https://github.com/louischristner/pomodoro/tree/master/javascript)
