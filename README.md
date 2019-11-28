@@ -32,3 +32,4 @@ A very simple [pomodoro](https://en.wikipedia.org/wiki/Pomodoro_Technique) progr
 
 ### R
 - [Ruby](https://github.com/louischristner/pomodoro/tree/master/ruby)
+- [Rust](https://github.com/louischristner/pomodoro/tree/master/rust)
