@@ -1,4 +1,4 @@
-# Java
+# Haskell
 
 Here is [Haskell](https://www.haskell.org/).
 This program was written using The Glorious Glasgow Haskell Compilation System, version 8.6.5.
