@@ -30,6 +30,9 @@ A very simple [pomodoro](https://en.wikipedia.org/wiki/Pomodoro_Technique) progr
 ### K
 - [Kotlin](https://github.com/louischristner/pomodoro/tree/master/kotlin)
 
+### L
+- [Lua](https://github.com/louischristner/pomodoro/tree/master/lua)
+
 ### P
 - [Perl](https://github.com/louischristner/pomodoro/tree/master/perl)
 - [PHP](https://github.com/louischristner/pomodoro/tree/master/php)
